@@ -1,4 +1,5 @@
-## Darwin Apolinario
+## Darwin Apolinario ![image](https://user-images.githubusercontent.com/71545960/142751724-4da9b563-3b31-4eb5-ad21-4ee4feb4b39e.png)
+
 
 ### Tech Stack
 
