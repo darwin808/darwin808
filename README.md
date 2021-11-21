@@ -1,4 +1,4 @@
-## Darwin Apolinario 🚀🚀🚀
+## Darwin Apolinario 😊
 
 ### Tech Stack
 
