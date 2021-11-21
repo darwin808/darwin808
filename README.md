@@ -11,7 +11,7 @@
 ### 📫 How to reach me:
 
 - Website: [darwinapolinario.com](https://darwinapolinario.com/)
-- Twitter: [@darwin808](https://twitter.com/darwin808)
+- Twitter: [@darwinnn_n](https://twitter.com/darwinnn_n)
 
 
 
