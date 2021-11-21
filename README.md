@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**darwin808/darwin808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+﻿# Hey There! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Jarrod Watts. A software engineer from Sydney, Australia.
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UCJae_agpt9S3qwWNED0KHcQ?sub_confirmation=1)
+[![Twitter Followers](https://img.shields.io/twitter/follow/jarrodwattsdev?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=jarrodwattsdev)
+[![GitHub Followers](https://img.shields.io/github/followers/jarrodwatts?label=GitHub%20Followers!&style=social)](https://github.com/jarrodwatts)
+
+---
+
+I'm a software engineer specializing in full-stack web development.
+
+I make content about full-stack web development on my [Blog](https://blog.jarrodwatts.com/) and my [YouTube Channel](https://www.youtube.com/channel/UCJae_agpt9S3qwWNED0KHcQ).
+
+Thanks for stopping by!
