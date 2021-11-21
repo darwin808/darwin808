@@ -11,7 +11,7 @@
 
 > *pending...*
 
-
+![Darwin's github stats](https://github-readme-stats.vercel.app/api?username=darwin808&show_icons=true&theme=dracula&hide=stars,issues)
 
 <details>
   <summary>Click👆</summary>
