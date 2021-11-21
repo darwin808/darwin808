@@ -1,15 +1,17 @@
-> 👨🏻‍💻 Web Front-end/Backen-end Developer
+## Darwin Apolinario
 
 ### Tech Stack
 
 - 🛠 Lang & Framework: React, Javascript
 - ⛏ Interest: Svelte, Typescript , Go, Node
 
+### 📫 How to reach me:
+
+- Website: [darwinapolinario.com](https://darwinapolinario.com/)
+- Twitter: [@notfilippo](https://twitter.com/darwin808)
 
 
-### Portfolio
 
-> *pending...*
 
 ![Darwin's github stats](https://github-readme-stats.vercel.app/api?username=darwin808&show_icons=true&theme=dracula&hide=stars,issues)
 
