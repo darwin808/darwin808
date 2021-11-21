@@ -3,7 +3,7 @@
 ### Tech Stack
 
 - 🛠 Lang & Framework: React, Javascript
-- ⛏ Interest: Svelte, Typescript , Go, Node
+- ⛏ Interest: Typescript , Go, Node
 
 ### 📫 How to reach me:
 
