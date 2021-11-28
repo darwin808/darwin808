@@ -15,14 +15,16 @@
   <div>
   - Website: [darwinapolinario.com](https://darwinapolinario.com/)
 - Twitter: [@darwinnn_n](https://twitter.com/darwinnn_n)
-  </div>
-
-<details>
+    
+    <details>
   <summary>Click👆</summary>
   <pre>
   🤷‍♂️♂
   </pre>
 </details>
+  </div>
+
+
 
 </div>
 
