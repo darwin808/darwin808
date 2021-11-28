@@ -3,16 +3,12 @@
 ### I'm Darwin Apolinario. 
 ### Software Developer from Manila, Philippines.
 
-<div style="display:flex;">
 
-  <div>
   ### Tech Stack
 
 - 🛠 Lang & Framework: React, Javascript
 - ⛏ Interest: Typescript , Go, Node
-  </div>
-  
-  <div>
+
   ### 📫 How to reach me:
 
   
@@ -26,10 +22,6 @@
   🤷‍♂️♂
   </pre>
 </details>
-
-  </div>
-
-</div>
 
 
 
