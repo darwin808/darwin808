@@ -1,7 +1,7 @@
 ﻿# Hey There! 👋
 
 ### I'm Darwin Apolinario. 
-## Web Developer from Manila, Philippines.
+### Web Developer from Manila, Philippines.
 
 
 ### Tech Stack
