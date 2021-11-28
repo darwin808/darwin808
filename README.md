@@ -10,10 +10,8 @@
 - ⛏ Interest: Typescript , Go, Node
 
   ### 📫 How to reach me:
-
   
-
-  - Website: [darwinapolinario.com](https://darwinapolinario.com/)
+- Website: [darwinapolinario.com](https://darwinapolinario.com/)
 - Twitter: [@darwinnn_n](https://twitter.com/darwinnn_n)
     
     <details>
@@ -22,17 +20,6 @@
   🤷‍♂️♂
   </pre>
 </details>
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 ![Darwin's github stats](https://github-readme-stats.vercel.app/api?username=darwin808&show_icons=true&theme=dracula&hide=stars,issues)
