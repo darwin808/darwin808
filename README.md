@@ -4,12 +4,12 @@
 ### Software Developer from Manila, Philippines.
 
 
-  ### Tech Stack
+### Tech Stack
 
 - 🛠 Lang & Framework: React, Javascript
 - ⛏ Interest: Typescript , Go, Node
 
-  ### 📫 How to reach me:
+### 📫 How to reach me:
   
 - Website: [darwinapolinario.com](https://darwinapolinario.com/)
 - Twitter: [@darwinnn_n](https://twitter.com/darwinnn_n)
