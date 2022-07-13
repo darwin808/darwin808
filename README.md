@@ -1,7 +1,8 @@
 <h1 align="center"> Hi, I'm Darwin ❤️❤️❤️ </h1>
 
  </br>
-  ## 🚀 Who me? 🤗
+ 
+ ##  🚀 Who me? 🤗
 
 <div align="center">
 
@@ -41,6 +42,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Keyboard&message=KINESIS&color=lightgray&style=for-the-badge"/>
   
 </div>
 
