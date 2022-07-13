@@ -1,4 +1,4 @@
-﻿# Hey There! 👋
+<h1 align="center"> Hey There! 👋 </h1>
 
 ### I'm Darwin Apolinario. 
 ### Software Developer from Manila, Philippines.
