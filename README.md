@@ -8,7 +8,7 @@
 
  
   
- Hi Im ***Darwin Apolinario***, Software Developer from Manila, Philippines. 
+ Hi Im ***Darwin Apolinario***, Software Developer from Metro Manila, Philippines. 
 
 </div>
  </br>
